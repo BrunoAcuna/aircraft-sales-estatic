@@ -203,6 +203,7 @@ footer {
 
 .form-aircraft {
     background-color: var(--bg-light-gray);
+    padding: 10px;
 }
 
 #comments-prices {
