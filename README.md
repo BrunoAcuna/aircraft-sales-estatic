@@ -5,5 +5,9 @@
 
 https://aircraftsalesacuna.netlify.app/
 
-Aircraft Sales é um HTML estático onde fiz o processo completo, desde o desing até a escritura do código;
+Aircraft Sales é um HTML estático onde fiz o processo completo, desde o desing até a estruturação do código;
 
+# Tecnologias Utilizadas
+## Front-End
+
+- HTML & CSS
